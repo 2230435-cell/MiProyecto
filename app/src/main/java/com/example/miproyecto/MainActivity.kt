@@ -1,4 +1,6 @@
+// Modificación 1 realizada por Carlos - Rama1
 package com.example.miproyecto
+
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
