@@ -1,4 +1,5 @@
 // Modificación 1 realizada por Carlos - Rama1
+
 package com.example.miproyecto
 
 
@@ -31,7 +32,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+// Modificación 2 realizada por Carlos - Rama1
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
