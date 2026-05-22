@@ -45,7 +45,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     MiProyectoTheme {
-        Greeting("Android")
+        Greeting("Vista Previa Rama1")
     }
 }
 // Modificación 3 realizada por Carlos - Rama1
