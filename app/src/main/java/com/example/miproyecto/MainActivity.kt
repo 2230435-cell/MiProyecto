@@ -32,6 +32,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+//MODIFICACION 2 REALIAZDA POR RAMA 2
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
