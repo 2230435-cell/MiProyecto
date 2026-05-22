@@ -2,7 +2,7 @@
 
 package com.example.miproyecto
 
-
+// PARTE 3 Modificación 4 realizada por Carlos - Rama1
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-// Modificación 2 realizada por Carlos - Rama1
+
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
@@ -40,7 +40,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
         modifier = modifier
     )
 }
-
+// Modificación 4 realizada por Carlos - Rama1
 @Preview(showBackground = true)
 @Composable
 fun GreetingPreview() {
